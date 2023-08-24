@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖐, I'm Luis Montero</h1>
-<h3 align="center">A passionate DevOps Engineer from Dominican Republic</h3>
+<h3 align="center">A passionate DevOps Engineer 💻 from Dominican Republic</h3>
 
-- 🔭 I’m currently working on **Cloud infra**
+- 🔭 I’m currently working on **Cloud infra, Security, Automation and Development**
 
 - 🌱 I’m currently learning **Cloud, security and programming**
 
-- 👯 I’m looking to collaborate on **Dotnet and Flutter projects**
+- 👯 I’m looking to collaborate on **AWS, Git Actions, Git labs, Dotnet and Flutter projects**
 
-- 💬 Ask me about **DevOps, DevSecOps, AZURE, AWS, OCI, Terraform, Docker, Kubernetes, Helm, Ansible, Scripting, Azure DevOps, Git Actions and Jenkins**
+- 💬 Ask me about **DevOps, DevSecOps, AZURE, AWS, OCI, Terraform, Docker, Kubernetes, Helm, Ansible, Scripting, Azure DevOps, Git Actions and Jenkins.**
 
 - 📫 How to reach me **luis.enrique.montero.09@gmail.com**
 
